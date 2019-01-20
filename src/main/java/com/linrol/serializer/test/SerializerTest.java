@@ -67,5 +67,9 @@ public class SerializerTest implements Serializable {
 		this.version = version;
 	}
 	
-	
+	@Override
+	public String toString() {
+		return "null";
+		//return ToString.toString(this);
+	}
 }
