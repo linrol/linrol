@@ -1,6 +1,13 @@
 package com.linrol.algorithm.dg;
 
-public class Node {
+import java.io.Serializable;
+
+public class Node implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2604626753131007702L;
 
 	private Object value;
 	
