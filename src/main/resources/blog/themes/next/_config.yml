@@ -44,6 +44,7 @@ menu:
   gitHub: https://github.com/linrol
   #tags: /tags
   #sitemap: /sitemap.xml
+  resume: /resume
   commonweal: /404.html
 
 
@@ -62,6 +63,7 @@ menu_icons:
   tags: tags
   archives: archive
   gitHub: github
+  resume: file
   sitemap: sitemap
   commonweal: heartbeat
 
